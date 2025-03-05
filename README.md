@@ -2,7 +2,7 @@
 
 A maioria das linguagens de programação são sensíveis a maiúsculas e minúsculas, o que significa que palavras-chave devem ser escritas de uma forma específica. No entanto, algumas linguagens, como SQL, são insensíveis a maiúsculas e minúsculas, permitindo que palavras-chave como `SELECT` possam ser escritas em diferentes combinações de maiúsculas e minúsculas, como `select`, `Select`, `sElEcT`, etc.
 
-## Objetivo
+## Objectivo
 
 Criar um algoritmo para identificar a palavra-chave `SELECT` em SQL de maneira insensível a maiúsculas e minúsculas, permitindo que a palavra seja escrita em qualquer mistura de letras maiúsculas e minúsculas.
 
@@ -27,7 +27,7 @@ Será desenvolvido um código em **PHP** (ou outra linguagem de programação) p
    ```
 2. Execute o código em PHP:
    ```sh
-   php script.php
+   php select.php
    ```
 
 ## 🔹 Contribuição
